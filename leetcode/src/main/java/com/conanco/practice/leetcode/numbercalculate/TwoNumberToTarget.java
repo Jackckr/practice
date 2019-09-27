@@ -1,11 +1,11 @@
-package com.conanco.practice.leetcode.NumberCalculate;
+package com.conanco.practice.leetcode.numbercalculate;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /* =====================================================================================
  * @ProjectName:    practice
- * @Package:        com.conanco.practice.leetcode.NumberCalculate
+ * @Package:        com.conanco.practice.leetcode.numbercalculate
  * @ClassName:      ${TYPE_NAME}
  * @Description:
  * 给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。

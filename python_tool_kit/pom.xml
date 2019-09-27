@@ -5,14 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.conanco.practice</groupId>
-    <artifactId>practice</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>python_tool_kit</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-    <modules>
-        <module>leetcode</module>
-        <module>basic-skill</module>
-    </modules>
 
 
 </project>

@@ -70,3 +70,7 @@ bin/
 *.ipr
 *.iws
 .idea/
+
+# python virtual #
+#################
+venv/*

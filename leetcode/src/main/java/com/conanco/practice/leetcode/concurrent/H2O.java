@@ -1,8 +1,8 @@
-package com.conanco.practice.leetcode.Concurrent;
+package com.conanco.practice.leetcode.concurrent;
 
 /* =====================================================================================
  * @ProjectName:    practice
- * @Package:        com.conanco.practice.leetcode.Concurrent
+ * @Package:        com.conanco.practice.leetcode.concurrent
  * @ClassName:      ${TYPE_NAME}
  * @Description:
  *  现在有两种线程，氢 oxygen 和氧 hydrogen，你的目标是组织这两种线程来产生水分子。
